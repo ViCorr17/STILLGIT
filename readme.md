@@ -9,12 +9,12 @@
 
 <!-- once you have staged your files, you can commit them into Git. Imagine a commit command as a save progress of your work at a certain point. A commit is a save point for your project. Just like saving your game before fighting the boss — if things go wrong, you can reload that save. In Git, if your code breaks, you can go back to an earlier commit where everything worked fine. You assign a commit message to every commit, which you can pass with the -m prefix -->
 
-A - Added/Tracked: A file which has been previously staged or commited
-U - Untracked: A file which has not being staged or commited
-Ignored - A file which git has been explicitly told to ignore
-M - (Modified)
+## A - Added/Tracked: A file which has been previously staged or commited
+## U - Untracked: A file which has not being staged or commited
+## Ignored - A file which git has been explicitly told to ignore
+## M - (Modified)
 
 <!-- Configure git -->
-git config --global user.name "YOUR NAME"
-git config --global user.email "YOUR EMAIL"
-you can only configure once
+## git config --global user.name "YOUR NAME"
+## git config --global user.email "YOUR EMAIL"
+## you can only configure once
